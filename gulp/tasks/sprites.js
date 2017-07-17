@@ -5,7 +5,7 @@ rename = require('gulp-rename');
 var config = {
 	mode: {
 	 css:{
-	  sprite: '/sprite.svg',	
+	  sprite: 'sprite.svg',	
 	   render: {
 	   	 css: {
              template: './gulp/templates/sprite.css'
